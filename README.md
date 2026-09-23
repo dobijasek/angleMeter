@@ -37,7 +37,7 @@ W odróznieniu do większości kątomierzy które mierzą kąty wyłącznie w je
 
 * wcześniejsze iteracje płytek do kompensacji gradientu temperaturowego i stabilizacji temperatury
 ![IMU](images/IMG_20220206_091928.jpg)
-*
+
  aktualny zestaw urządzeń (2 bezprzewodowe czujniki + urządzenie sterujące)
 ![devs1](images/20260923_133825.jpg)
 ![devs2](images/20260923_133833.jpg)
